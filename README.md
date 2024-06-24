@@ -1,8 +1,6 @@
 <h1 align="center">Hi! 👋, I'm Ntolgka Nalmpant. You can call me Tolga.</h1>
 <h3 align="center">A recent graduate backend developer from Greece, living in Turkey since 2012.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ntolgka" alt="ntolgka" /></a> </p>
-
 - 📖 I’m currently learning **C#, .NET Core, Machine Learning.**
 
 - 📨 How to reach me **nalbanttolga1@gmail.com**
